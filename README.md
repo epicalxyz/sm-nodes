@@ -7,7 +7,11 @@ If you would like to see more details you can submit a pull request, those are a
 Tested with SpaceMesh 1.6.0 in Linux
 
 ---
+#### Requirements:
 
+GrpCurl - https://github.com/fullstorydev/grpcurl/releases
+
+---
 #### Instructions:
 
 - Change the name of nodes-example.json to nodes.json
